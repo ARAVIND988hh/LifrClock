@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LifeClock</string>
+    <string name="wallpaper_description">A personal life countdown based on your chosen lifespan.</string>
+</resources>
